@@ -823,6 +823,22 @@ p + p{
     );
 }
 
+.bg-escuro{
+  background-color: #414094;
+}
+
+.azul-escuro{
+  color: #414094;
+}
+
+.bg-claro{
+  background-color: #6366f1;
+}
+
+.azul-claro{
+  color: #8CB1D5;
+}
+
 .page-loading.hide{
   pointer-events: none;
   visibility: hidden;
