@@ -507,7 +507,7 @@ html{
 body{
   --tw-bg-opacity: 1;
   background-color: rgb(253 253 254 / var(--tw-bg-opacity));
-  font-family: Inter, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 14px;
   line-height: 1.5;
 }
